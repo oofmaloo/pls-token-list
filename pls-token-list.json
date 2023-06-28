@@ -40,7 +40,7 @@
             "name": "Maker DAO",
             "chainId": 369,
             "symbol": "DAI",
-            "decimals": 8,
+            "decimals": 18,
             "address": "0xefD766cCb38EaF1dfd701853BFCe31359239F305",
             "logoURI": "https://gemini.com/images/currencies/icons/default/dai.svg"
         }
