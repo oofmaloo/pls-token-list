@@ -1,0 +1,48 @@
+{
+    "name": "Pulsechain",
+    "timestamp": "2022-08-02T00:00:00.000Z",
+    "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
+    "keywords": [
+        "balancer",
+        "listed"
+    ],
+    "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 1
+    },
+    "tokens": [
+        {
+            "name": "Wrapped Pulse",
+            "chainId": 369,
+            "symbol": "WPLS",
+            "decimals": 18,
+            "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+            "logoURI": "https://gemini.com/images/currencies/icons/default/weth.svg"
+        },
+        {
+            "name": "Wrapped Ethereum",
+            "chainId": 369,
+            "symbol": "WETH (Ethereum)",
+            "decimals": 18,
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "logoURI": "https://gemini.com/images/currencies/icons/default/weth.svg"
+        },
+        {
+            "name": "PulseX",
+            "chainId": 369,
+            "symbol": "PLSX",
+            "decimals": 18,
+            "address": "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
+            "logoURI": "https://gemini.com/images/currencies/icons/default/amp.svg"
+        },
+        {
+            "name": "Maker DAO",
+            "chainId": 369,
+            "symbol": "DAI",
+            "decimals": 8,
+            "address": "0xefD766cCb38EaF1dfd701853BFCe31359239F305",
+            "logoURI": "https://gemini.com/images/currencies/icons/default/dai.svg"
+        }
+    ]
+}
