@@ -17,8 +17,8 @@
             "chainId": 369,
             "symbol": "WPLS",
             "decimals": 18,
-            "address": "0x111111111117dc0aa78b770fa6a738034120c302",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/weth.svg"
+            "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11145.png"
         },
         {
             "name": "Wrapped Ethereum",
@@ -42,7 +42,7 @@
             "symbol": "DAI",
             "decimals": 18,
             "address": "0xefD766cCb38EaF1dfd701853BFCe31359239F305",
-            "logoURI": "https://gemini.com/images/currencies/icons/default/dai.svg"
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
         }
     ]
 }
